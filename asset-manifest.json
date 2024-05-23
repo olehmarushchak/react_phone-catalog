@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.121dc4ae.css",
-    "main.js": "./static/js/main.335c1058.js",
+    "main.css": "./static/css/main.76fe7288.css",
+    "main.js": "./static/js/main.c124a993.js",
     "static/media/color1-banner3-Desktop.png-Photoroom-Photoroom.png-Photoroom (1)-Photoroom.png-Photoroom.png": "./static/media/color1-banner3-Desktop.png-Photoroom-Photoroom.png-Photoroom (1)-Photoroom.png-Photoroom.57db80119c751561b94d.png",
     "static/media/color2-banner-Photoroom.png-Photoroom.png": "./static/media/color2-banner-Photoroom.png-Photoroom.022dbd7fcbb7e875da53.png",
     "static/media/Logo.svg": "./static/media/Logo.1f9dda44b9bba4aadcc081345bdf963c.svg",
@@ -9,11 +9,8 @@
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/sun.png": "./static/media/sun.f8a7e02c43d08bc96231.png",
     "static/media/Apple-iPhone-15-promo-banner-buy-now-scaled.jpg": "./static/media/Apple-iPhone-15-promo-banner-buy-now-scaled.a657677e3c310a1731db.jpg",
-    "static/media/acsessor - desktop.png": "./static/media/acsessor - desktop.b914f4124f0dab3439fb.png",
-    "static/media/tablets-tamlets.png": "./static/media/tablets-tamlets.ed3dd9df51129690126b.png",
     "static/media/TabletU (1).jpg": "./static/media/TabletU (1).cd0c3aa6c55cc0916bb3.jpg",
     "static/media/updatePhone.jpg": "./static/media/updatePhone.ed2cf7c743ce0c25a969.jpg",
-    "static/media/Phones -desktop.png": "./static/media/Phones -desktop.464b59621d37fd37fbe8.png",
     "static/media/cart-is-empty.png": "./static/media/cart-is-empty.86ebaf664449a2f61e5e.png",
     "static/media/moon-Photoroom (1).png": "./static/media/moon-Photoroom (1).e03599093b0bafc68297.png",
     "static/media/Shopping bag (Cart).svg": "./static/media/Shopping bag (Cart).f9632dca8fdaed9bb696.svg",
@@ -39,11 +36,11 @@
     "static/media/Minus.svg": "./static/media/Minus.cecb4be39afa7b933ec1.svg",
     "index.html": "./index.html",
     "static/media/Ellipse-10.svg": "./static/media/Ellipse-10.dd713ca571db3c144475.svg",
-    "main.121dc4ae.css.map": "./static/css/main.121dc4ae.css.map",
-    "main.335c1058.js.map": "./static/js/main.335c1058.js.map"
+    "main.76fe7288.css.map": "./static/css/main.76fe7288.css.map",
+    "main.c124a993.js.map": "./static/js/main.c124a993.js.map"
   },
   "entrypoints": [
-    "static/css/main.121dc4ae.css",
-    "static/js/main.335c1058.js"
+    "static/css/main.76fe7288.css",
+    "static/js/main.c124a993.js"
   ]
 }
