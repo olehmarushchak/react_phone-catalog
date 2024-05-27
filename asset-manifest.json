@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.de10ac26.css",
-    "main.js": "./static/js/main.dafd32a4.js",
+    "main.js": "./static/js/main.b0ecf7c8.js",
     "static/media/color1-banner3-Desktop.png-Photoroom-Photoroom.png-Photoroom (1)-Photoroom.png-Photoroom.png": "./static/media/color1-banner3-Desktop.png-Photoroom-Photoroom.png-Photoroom (1)-Photoroom.png-Photoroom.57db80119c751561b94d.png",
     "static/media/color2-banner-Photoroom.png-Photoroom.png": "./static/media/color2-banner-Photoroom.png-Photoroom.022dbd7fcbb7e875da53.png",
+    "static/media/Logo-White.svg": "./static/media/Logo-White.e19cd17ef75822623a6ead39e9d7b8aa.svg",
     "static/media/Logo.svg": "./static/media/Logo.1f9dda44b9bba4aadcc081345bdf963c.svg",
     "static/media/updateAcsec.jpg": "./static/media/updateAcsec.ebe61f744e04bf15dead.jpg",
     "static/media/sun.png": "./static/media/sun.f8a7e02c43d08bc96231.png",
@@ -38,10 +39,10 @@
     "index.html": "./index.html",
     "static/media/Ellipse-10.svg": "./static/media/Ellipse-10.dd713ca571db3c144475.svg",
     "main.de10ac26.css.map": "./static/css/main.de10ac26.css.map",
-    "main.dafd32a4.js.map": "./static/js/main.dafd32a4.js.map"
+    "main.b0ecf7c8.js.map": "./static/js/main.b0ecf7c8.js.map"
   },
   "entrypoints": [
     "static/css/main.de10ac26.css",
-    "static/js/main.dafd32a4.js"
+    "static/js/main.b0ecf7c8.js"
   ]
 }
